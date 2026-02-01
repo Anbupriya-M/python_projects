@@ -8,6 +8,7 @@ The goal is to analyze movies and TV shows data and extract meaningful insights 
 - Pandas
 - NumPy
 - Matplotlib
+- Jupyter 
 
 ## Dataset
 - Source: Kaggle
