@@ -18,7 +18,7 @@ A Python-based application that retrieves real-time weather information for a gi
    pip install requests
 2. Run the application:
    python weather_app.py
-3. Enter a city name when prompted
+3. Enter a city name when prompted.
 
 ## Skills Demonstrated
 - API integration
